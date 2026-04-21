@@ -16,7 +16,7 @@ The application also provides:
 
 | Dashboard | Predictions |
 |----------|------------|
-| ![Dashboard](dashboard.png) | ![Prediction](prediction.png) |
+| ![Dashboard](Dashboard.png) | ![Prediction](prediction.png) |
 
 ---
 
