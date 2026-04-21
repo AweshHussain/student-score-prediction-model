@@ -91,9 +91,3 @@ The application also provides:
 ### 1. Install dependencies
 ```bash
 pip install pandas scikit-learn streamlit plotly reportlab
-
----
-
-## 👨‍💻 Author  
-**Awesh Hussain**  
-🔗 LinkedIn: https://www.linkedin.com/in/awesh06/
