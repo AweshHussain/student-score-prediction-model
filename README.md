@@ -10,7 +10,13 @@ This project is a **Machine Learning-based web application** that predicts stude
 The application also provides:
 - 📊 Interactive visualizations  
 - 📄 Downloadable PDF reports  
-- 💾 Data logging for future analysis  
+- 💾 Data logging for future analysis
+
+  ## 📸 Application Preview
+
+| Dashboard | Predictions |
+|----------|------------|
+| ![Dashboard](Dashboard.png) | ![Prediction](prediction.png) |
 
 ---
 
