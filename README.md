@@ -2,6 +2,9 @@
 
 📊 Predict student performance using Machine Learning + Interactive Dashboard  
 
+## 🌐 Live Demo  
+👉 https://awesh-student-score-predictor.streamlit.app/
+
 ---
 
 ## 📌 Overview
